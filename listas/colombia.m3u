@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Caracol TV
-http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Caracol HD" tvg-logo="https://i.imgur.com/caracol-logo.png" group-title="Colombia",Caracol HD
+http://181.78.14.26:8000/play/a00d
 
 #EXTINF:-1,RCN
 http://199.180.114.174:84/crcn.m3u8
