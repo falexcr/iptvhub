@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,ESPN
+http://ejemplo.com/espn.m3u8
+#EXTINF:-1,Fox Sports
+http://ejemplo.com/foxsports.m3u8
